@@ -6,7 +6,7 @@ This is the official repository of the [Docker image](https://hub.docker.com/r/c
 
 For full documentation, visit the [Installing Cachet with Docker](https://docs.cachethq.io/docs/get-started-with-docker) page.
 
-# Supporting Cachet
+# Supporting Cachet 
 
 Cachet is a BSD-3-licensed open source project. If you'd like to support future development, check out the [Cachet Patreon](https://patreon.com/jbrooksuk) campaign.
 
